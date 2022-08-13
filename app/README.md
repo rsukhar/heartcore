@@ -1,0 +1,1 @@
+We started the first experiments with the blockchain part of the app, but the rest of the work still has to be done.
